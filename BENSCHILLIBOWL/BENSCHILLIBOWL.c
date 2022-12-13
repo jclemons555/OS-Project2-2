@@ -1,5 +1,4 @@
 #include "BENSCHILLIBOWL.h"
-
 #include <assert.h>
 #include <stdlib.h>
 #include <sys/time.h>
